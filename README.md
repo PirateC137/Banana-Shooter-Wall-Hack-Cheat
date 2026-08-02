@@ -1,5 +1,7 @@
 A small internal cheat
 
+Show/Hide menu -> Ins/Shift + Ins
+
 Launch Banana Shooter, then run Banan.exe.
 
 The Banan.exe application may be flagged by antivirus software as malware because it uses a simple DLL injection method to interact with a specific process. Can be replaced with any popular injector
